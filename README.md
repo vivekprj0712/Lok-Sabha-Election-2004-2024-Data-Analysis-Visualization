@@ -22,19 +22,19 @@ This project aims to analyze and visualize the Lok Sabha election data from 2004
 # Dataset Description
 The dataset contains information for each parliamentary constituency (PC) over five election years (2004, 2009, 2014, 2019, 2024). Below are the key columns in the dataset:
 
-PC Name: Name of the Parliamentary Constituency.
-Caste: Demographic information related to the caste of the constituency.
-State: State in which the constituency is located.
-Winning Candidate: Name of the candidate who won the election in the constituency.
-Party: Political party of the winning candidate.
-Electors: Total number of registered electors in the constituency.
-Votes: Total number of votes cast in the constituency.
-Turnout: Voter turnout percentage.
-Margin: Winning margin (number of votes by which the winning candidate won).
-Margin %: Winning margin percentage.
-Year: Election year.
-Power BI Desktop
-Python (for data preprocessing, if required)
-Pandas, Matplotlib, Seaborn, Scikit-learn (Python libraries for data analysis and visualization)
-Probability & Statistics
-Hypothesis Testing
+# PC Name: Name of the Parliamentary Constituency.
+# Caste: Demographic information related to the caste of the constituency.
+# State: State in which the constituency is located.
+# Winning Candidate: Name of the candidate who won the election in the constituency.
+# Party: Political party of the winning candidate.
+# Electors: Total number of registered electors in the constituency.
+# Votes: Total number of votes cast in the constituency.
+# Turnout: Voter turnout percentage.
+# Margin: Winning margin (number of votes by which the winning candidate won).
+# Margin %: Winning margin percentage.
+# Year: Election year.
+# Power BI Desktop
+# Python (for data preprocessing, if required)
+# Pandas, Matplotlib, Seaborn, Scikit-learn (Python libraries for data analysis and visualization)
+# Probability & Statistics
+# Hypothesis Testing
